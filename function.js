@@ -1,4 +1,3 @@
-// Code By Webdevtrick ( https://webdevtrick.com )
 $(".dropdown dt a").on('click', function() {
   $(".dropdown dd ul").slideToggle('fast');
 });
